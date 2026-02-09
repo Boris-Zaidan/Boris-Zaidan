@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-   <a href="">
+   <a href="mailto:contato@bzmgs31@gmail.com">
   Enviar e-mail
 </a>
 ">
