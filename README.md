@@ -20,13 +20,12 @@
 
 ###
 
-<h3 align="left">👨🏾‍💻 Sobre</h3>
+### 🧠 Sobre Mim
 
-###
-
-<p align="left">🎓 Bacharelado em Análise e Desenvolvimento de Sistemas<br><br>📚 Estudando Docker, Clean Architecture e boas práticas de arquitetura de software<br><br>🚀 Em constante evolução<br><br>👨🏾‍💻Juiz de Fora - MG</p><br>
-
-###
+- 🎓 Bacharelado em Análise e Desenvolvimento de Sistemas
+- 📚 Estudando Docker, Clean Architecture e boas práticas de arquitetura de software
+- 🚀 Em constante evolução
+---
 
 <h3 align="left">🛠Linguagens e Tecnologias</h3>
 
