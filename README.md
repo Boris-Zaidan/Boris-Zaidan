@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">🎓 Bacharelado em Análise e Desenvolvimento de Sistemas<br><br>📚 Estudando Docker, Clean Architecture e boas práticas de arquitetura de software<br><br>🚀 Em constante evolução<br><br>👨🏾‍💻Juiz de Fora - MG</p>
+<p align="left">🎓 Bacharelado em Análise e Desenvolvimento de Sistemas<br><br>📚 Estudando Docker, Clean Architecture e boas práticas de arquitetura de software<br><br>🚀 Em constante evolução<br><br>👨🏾‍💻Juiz de Fora - MG</p><br>
 
 ###
 
