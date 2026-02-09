@@ -16,11 +16,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  Sobre</h3>
+<h3 align="left">👨🏾‍💻 Sobre</h3>
 
 ###
 
-<p align="left">🎓 Bacharelado em Análise e Desenvolvimento de Sistemas<br>📚 Estudando Docker, Clean Architecture e boas práticas de arquitetura de software<br>🚀 Em constante evolução<br>👨‍💻 Juiz de Fora - MG</p>
+<p align="left">🎓 Bacharelado em Análise e Desenvolvimento de Sistemas<br>📚 Estudando Docker, Clean Architecture e boas práticas de arquitetura de software<br>🚀 Em constante evolução<br>👨🏾‍💻Juiz de Fora - MG</p>
 
 ###
 
