@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="250" src="https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif"  />
+  <img  height="300px" width="78%" src="https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif"  />
 </div>
 
 ###
