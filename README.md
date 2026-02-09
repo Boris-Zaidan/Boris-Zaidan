@@ -14,13 +14,15 @@
 </p>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/boriszaidan/">
+  
+  <a href="https://www.linkedin.com/in/boriszaidan/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=edcb09&logoColor=black&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=edcb09&logoColor=black&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
+
   <a href="mailto:bzmgs31@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=edcb09&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=edcb09&logoColor=black&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
+
 </p>
 
 
