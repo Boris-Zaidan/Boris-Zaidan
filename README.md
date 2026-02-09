@@ -1,4 +1,4 @@
-<h2 align="center">**Olá, Eu sou Boris Zaidan👋**</h2>
+<h2 align="center">Olá, Eu sou Boris Zaidan👋</h2>
 
 ###
 
