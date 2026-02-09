@@ -1,4 +1,4 @@
-<h2 align="center">Hello, I'm Boris Zaidan👋</h2>
+<h2 align="center">**Olá, Eu sou Boris Zaidan👋**</h2>
 
 ###
 
@@ -13,6 +13,9 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
 
+
+
+
 ###
 
 <h3 align="left">👩‍💻  Sobre</h3>
@@ -23,7 +26,7 @@
 
 ###
 
-<h3 align="left">🛠Linguagens e Tecnologias</h3>
+<h3 align="left">🛠Linguagens e Tecnologias que eu uso no meu dia</h3>
 
 ###
 
