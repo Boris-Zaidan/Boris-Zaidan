@@ -1,12 +1,17 @@
 <h1 align="center">Olá, Eu sou Boris Zaidan👋</h1>
 
-###
 
 <div align="center">
-  <img  height="500" width="600" src="https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif"  />
+  <img  height="5400" width="500" src="https://i.pinimg.com/originals/88/15/63/881563d6444b370fa4ceea0c3183bb4c.gif"  />
 </div>
 
 ###
+
+---
+
+<p align="center">
+  Sou apaixonado por tecnologia, educação e criatividade. Aqui você encontrará projetos, meus experimentos com IA  e muito mais :)
+</p>
 
 <p align="center">
    <a href="https://www.linkedin.com/in/boriszaidan/">
@@ -20,11 +25,14 @@
 
 ###
 
+---
+
 ### 🧠 Sobre Mim
 
 - 🎓 Bacharelado em Análise e Desenvolvimento de Sistemas
 - 📚 Estudando Docker, Clean Architecture e boas práticas de arquitetura de software
 - 🚀 Em constante evolução
+  
 ---
 
 <h3 align="left">🛠Linguagens e Tecnologias</h3>
