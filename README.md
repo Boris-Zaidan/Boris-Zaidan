@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-   <a href="<a href="https://mail.google.com/mail/?view=cm&fs=1&to=bzmgs31@gmail.com">
+   <a href="">
   Enviar e-mail
 </a>
 ">
