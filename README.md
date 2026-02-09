@@ -24,7 +24,7 @@
 
 ###
 
-<h3 align="left">🛠Linguagens e Tecnologias que eu uso no meu dia</h3>
+<h3 align="left">🛠Linguagens e Tecnologias</h3>
 
 ###
 
@@ -56,6 +56,6 @@
 
 ###
 
-<p align="center">1% todos os dias - "Hábitos Atômicos"</p>
+<p align="center">1% melhor todos os dias - "Hábitos Atômicos"</p>
 
 ###
