@@ -15,11 +15,9 @@
 
 <p align="center">
    <a href="mailto:contato@bzmgs31@gmail.com">
-  Enviar e-mail
-</a>
-">
+  </a>
      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=edcb09&logoColor=black&style=for-the-badge" height="25" alt="linkedin logo" />
-   </a>
+  </a>
   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=edcb09&logoColor=black&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
