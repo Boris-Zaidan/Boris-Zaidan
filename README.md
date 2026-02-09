@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-   <a href="">
+   <a href="mailto:bzmgs31@gmail.com">
      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=edcb09&logoColor=black&style=for-the-badge" height="25" alt="linkedin logo" />
    </a>
   <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
